@@ -1,1 +1,2 @@
 # codealpha_tasks4
+t uses Room and Reservation classes to manage hotel inventory and bookings. Key features include room categorization, filtered availability checks, making and canceling reservations, and a payment simulation step. Crucially, the system ensures data persistence by using Java's File I/O (serialization) to save and load all room and booking information to disk, so the hotel's state is remembered between runs
